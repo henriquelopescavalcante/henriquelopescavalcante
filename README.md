@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Henrique Lopes</h1>
+<h1 align="center"> Olá! Eu sou o Henrique Lopes</h1>
 
 <p align="center">
   <strong>Desenvolvedor Back-End em Python e Django</strong><br>
