@@ -10,7 +10,7 @@
 
 - 👨‍💻 Tenho 3 anos de experiência em desenvolvimento Back-End
 - 🔁 Crio APIs robustas com Django REST Framework e automações eficientes
-- 🐳 Trabalho com Docker, PostgreSQL/MySQL e deploys em ambientes Linux
+- 🐳 Trabalho com Docker, PostgreSQL/MySQL e deploys 
 - ☁️ Conhecimento prático em AWS (EC2, S3)
 - 📊 Já otimizei processos que reduziram em até 20% o tempo de execução
 - 🧪 Experiência com testes automatizados, Git, GitHub Actions e boas práticas de versionamento
@@ -32,15 +32,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
 </div>
 
-
-📌 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [**Flix API**](https://github.com/henriquelopescs/flix-api) | API estilo Netflix para gerenciar filmes, categorias e usuários | Django, DRF, JWT |
-| [**Loja de Carros**](https://github.com/henriquelopescs/loja-carros) | Sistema completo de gestão de veículos e usuários | Django, Bootstrap |
-| [**Pet Shop**](https://github.com/henriquelopescs/pet-shop) | Aplicação para agendamento e controle de serviços pet | Django, SQLite |
-| [**Projeto Healing**](https://github.com/henriquelopescs/projeto-healing) | Sistema médico para clínicas com agenda e controle de pacientes | Django, DRF, Templates |
+| Projeto                                                                   | Descrição                                                                | Tecnologias                    |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------ |
+| [**Flix API**](https://github.com/henriquelopescs/flix-api)               | API estilo Netflix para gerenciar filmes, categorias e usuários          | Django, DRF, JWT               |
+| [**Loja de Carros**](https://github.com/henriquelopescs/loja-carros)      | Sistema completo de gestão de veículos e usuários                        | Django, Bootstrap              |
+| [**Pet Shop**](https://github.com/henriquelopescs/pet-shop)               | Aplicação para agendamento e controle de serviços pet                    | Django, SQLite                 |
+| [**Projeto Healing**](https://github.com/henriquelopescs/projeto-healing) | Sistema médico para clínicas com agenda e controle de pacientes          | Django, DRF, Templates         |
+| [**SGE**](https://github.com/henriquelopescs/sge)                         | Sistema de Gestão de Estoque com controle de produtos, entradas e saídas | Django, DRF, Bootstrap, SQLite |
 
 📬 Contato
 
