@@ -8,7 +8,7 @@
 
 🚀 Sobre mim
 
-- 👨‍💻 Tenho 3 anos de experiência em desenvolvimento Back-End
+- 👨‍💻 Tenho 4 anos de experiência em desenvolvimento Back-End
 - 🔁 Crio APIs robustas com Django REST Framework e automações eficientes
 - 🐳 Trabalho com Docker, PostgreSQL/MySQL e deploys 
 - ☁️ Conhecimento prático em AWS (EC2, S3)
